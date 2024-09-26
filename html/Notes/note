@@ -1,1 +1,64 @@
+====================================== Day 1 ============================================
 
+ # Basic tag in html  
+    1. heading tag  
+       => are used to display heading in the web page all the heading tags are block level element 
+       =>there are 6 varient if heading tag
+       => all the heading tag only differ in font size
+
+
+                                  2em , 1.5em , 1.17em, 1em, 0.83em , 0.67em {size unit}
+             -> <head>  </head>   h1,     h2,     h3,   h4,     h5,     h6   {its define font size }
+             -> paired tag , opening and closing tag beacause its paired tag
+             -> <h1> Hello World (contant) </h2> 
+             -> block level element (occupies entire width of window)
+
+
+    2.paragraph tag (it is used to display paragraph into the web page )
+            -> it is block level element (occupies entire width of window)
+            -> to generate random paragraph we use the suggestion lorem
+            -> paired tag 
+            -> <p> <p/>
+        
+
+    3.pre tag  (pre formater tag)
+      => it will dispaly the content as it is written in the html tag
+      => extra spaces and line break are allow
+            -> it is block level element (occupies entire width of window)
+            -> paired tag 
+            -> <pre> </pre>
+
+    4.Division tag 
+      => it access the container for html element 
+      => it defines the division and section of you element  
+            -> it is block level element (occupies entire width of window)
+            -> create container
+            -> <div> </div>
+             
+
+    5.span tag
+      => it is the inline element 
+      => it is used to mark part of the text ( highlight some part of text or word inside paraghraph)
+            -> inline level element (occupies content width)
+            -> paired tag
+            -> <span> </span>
+
+    6.image tag    <img/>
+        => it is the unpaired tag or self closing tag
+        => it is used to dispaly the image on the browser
+        => it is inline-block level element
+        => it will take 2 attrbutes by default
+                i. src (source path/url)
+                      -> we should pass url or path as a value
+                      -> two ways we can display the image into the browser 
+                             1. by passing the image address that we can fetch directly from the browser
+                             2. we can download image and we can provide the image path
+
+                ii. alt attrbute (alternative text (name) ) 
+                        -> it is used to provide alternative text
+                        -> heigth and width attribute (it is used to set height and width to the image )           
+
+        
+        
+
+         
