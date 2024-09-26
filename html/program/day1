@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Web technology </h1>
+    <h2>Web technology </h2>
+    <h3>Web technology </h3>
+    <h4>Web technology </h4>
+    <h5>Web technology </h5>
+    <h1> hello</h1>
+
+     <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab impedit asperiores modi officiis deserunt inventore
+        dolor optio, beatae officia excepturi! Fugit ut rem distinctio earum mollitia, ipsum, ea magnam ducimus quisquam
+        laborum voluptatum quas facere, maiores officia voluptate suscipit. Accusantium culpa porro non accusamus
+        excepturi vel in eum odio doloribus.
+    </p> 
+
+    <pre>
+        hi there !!!  
+        hello             nice bro     0000000
+
+        hello sir
+    </pre>
+
+    <p>
+        Lorem ipsum dolor sit amet, <span style="background-color: blue;">consectetur </span> adipisicing elit. Ab impedit asperiores modi officiis deserunt inventore
+        dolor optio, beatae officia excepturi! Fugit ut rem distinctio earum mollitia, ipsum, ea magnam ducimus quisquam
+    </p> 
+
+    <div style="background-color: aqua;">
+        <h1> prince </h1>
+        <p>Lorem, ipsum dolor sit amet <span style="background-color: blueviolet;">consectetur</span> adipisicing elit.</p>
+    </div>
+
+    <img src="./image/download.jpeg" alt="hello there " height="400px" width="600px">
+
+
+</body>
+</html>
