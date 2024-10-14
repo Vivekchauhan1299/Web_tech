@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient( red, purple);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.table-container {
+    width: 60%;
+    height: 300px;
+    text-transform: uppercase;
+    background-color:  rgb(39, 200, 149);
+    overflow-y: auto;
+    box-shadow:  25px 25px rgba(10, 10, 10, 0.1);
+}
+
+h2{
+    display: block;
+    color: antiquewhite;
+    font-weight: 1;
+}
+table {
+    width: 100%;
+    font-weight: 1;
+}
+
+th, td {
+    border-bottom: 1px solid rgb(142, 248, 228);
+    padding: 15px;
+    border-collapse: collapse;
+    text-align: left;
+    color: white;
+}
+
+thead th {
+    position: sticky;
+    top: 0;
+    background: rgba(0, 255, 187, 0.8);
+}
+td:hover {
+    background-color: rgb(15, 243, 235);
+    cursor: pointer;
+}
